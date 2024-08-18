@@ -1,2 +1,2 @@
 # coffee-and-code
-Coffee and code with projects
+Coffee and code with react projects
